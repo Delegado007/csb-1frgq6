@@ -1,0 +1,29 @@
+#cuerpo{
+                min-height: 100vh;
+                background: linear-gradient(rgb(11, 69, 118) 0%, rgb(9, 17, 21) 100%);
+}
+#cartas{
+                font-family: Kanit, sans-serif;
+                font-weight: 700;
+}
+#targeta{
+                width: 21rem;
+}
+.card-img-top{
+                width: 8rem;
+}
+#box-inicio{
+    background: rgb(39,38,44);
+    background: linear-gradient(0deg, rgba(39,38,44,1) 0%, rgba(0,0,0,1) 100%);   
+    border: 1px solid rgb(56, 50, 65);    
+    border-radius: 15px;
+}
+
+#no_ayudar{
+  display: none;  
+}
+
+#ayudar{
+  display: block;
+  color:rgb(255, 80, 80);
+}
